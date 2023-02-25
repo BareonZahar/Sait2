@@ -1,0 +1,21 @@
+
+   header{
+       background-color: beige;
+
+   }
+   section{
+       background-color: cyan;
+   }
+   a{
+      margin: 20px;
+   }
+   footer{
+       background-color: beige;
+   }
+   body{
+       background-color: grey;
+       margin: 0px 100px ;
+   }
+   a:hover{
+       color: gold;
+   }
